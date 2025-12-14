@@ -97,12 +97,51 @@ To analyze historical HR data and uncover **attrition drivers** across age, inco
 
 ## 📂 Dataset Information
 
-* Employee demographics (Age, Gender, Education)
-* Job-related attributes (Role, Department, Satisfaction)
-* Compensation & tenure details
+**File Name:** `HR_Analytics.csv`
 
-*Dataset used for educational and analytical purposes.*
+### 📌 Dataset Description
+This dataset contains employee-level HR data used to analyze workforce demographics, job attributes, compensation, satisfaction, and attrition patterns.
 
+### 🧾 Key Columns
+- **EmployeeID** – Unique identifier for each employee  
+- **Age** – Age of the employee  
+- **Gender** – Male / Female  
+- **Department** – Human Resources, Sales, Research & Development  
+- **JobRole** – Employee job designation  
+- **EducationField** – Educational background  
+- **MonthlyIncome** – Employee monthly income  
+- **YearsAtCompany** – Tenure in the organization  
+- **JobSatisfaction** – Satisfaction rating (1–4)  
+- **Attrition** – Employee left the company (Yes / No)
+
+### 📊 Dataset Size
+- **Rows:** 1,480 employees  
+- **Columns:** Multiple HR attributes covering demographics, compensation, and performance
+
+*Dataset used for analytical and educational purposes.*
+
+---
+
+## 🐍 Python Analysis (Jupyter Notebook)
+
+In addition to Power BI, a **Python-based Exploratory Data Analysis (EDA)** was performed using a Jupyter Notebook to validate findings and extract deeper insights from the HR dataset.
+
+### 📁 Python Files
+- `HR Analytics Notebook.ipynb` – Jupyter Notebook containing Python analysis
+- `HR_Analytics.csv` – Dataset used for analysis
+
+### 🛠 Libraries Used
+- **Pandas** – Data cleaning and manipulation  
+- **NumPy** – Numerical computations  
+- **Matplotlib & Seaborn** – Data visualization  
+
+### 🔍 Analysis Performed
+- Data cleaning and missing value checks  
+- Attrition distribution analysis  
+- Age-wise, income-wise, and tenure-wise attrition trends  
+- Gender and job-role based attrition comparison  
+- Visualizations supporting Power BI insights
+  
 ---
 
 ## 🚀 Business Impact
