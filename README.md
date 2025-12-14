@@ -90,11 +90,8 @@ To analyze historical HR data and uncover **attrition drivers** across age, inco
 
 ## 🖼 Dashboard Preview
 
-*Add a screenshot of the dashboard here*
+<img width="988" height="558" alt="Screenshot 2025-12-14 142510" src="https://github.com/user-attachments/assets/03a2d377-2606-48a2-b041-472affc1816e" />
 
-```markdown
-![HR Analytics Dashboard](screenshots/hr_dashboard.png)
-```
 
 ---
 
