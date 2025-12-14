@@ -166,5 +166,4 @@ The HR Analytics Dashboard converts raw HR data into **actionable insights** tha
 **Vipul Gupta**
 Data Analyst | SQL | Excel | Power BI | Python
 
-📎 GitHub: *Add your GitHub profile link here*
-📎 LinkedIn: *Add your LinkedIn profile link here*
+📎 LinkedIn: *www.linkedin.com/in/vipulgupta28*
